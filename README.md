@@ -9,7 +9,7 @@
 
 ## About Me
 
-Welcome to my GitHub profile! I am passionate about coding and technology. Here you'll find a collection of my projects and contributions in various languages and frameworks.
+Welcome to my GitHub profile! I am passionate and enthusiasticabout coding and technology. Here you'll find a collection of my projects. 
 
 - 🔭 I’m currently working on improving my Mobile Application Development Skill
 - ⚡ Fun fact: I play alot of Chess. 
