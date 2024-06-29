@@ -11,9 +11,9 @@
 
 ## About Me
 
-Welcome to my GitHub profile! I am passionate and enthusiastic about coding and technology. Here you'll find a collection of my projects. 
+Tech Enthusiast 👨🏽‍💻
 
-- 🔭 I’m currently working on improving my Mobile Application Development Skill
+- 🔭 I’m currently working on improving my Mobile Application Development and Backend Skills
 - ⚡ Fun fact: I play a lot of Chess. 
 
 ## Connect with Me
