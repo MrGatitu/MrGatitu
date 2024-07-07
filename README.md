@@ -16,7 +16,7 @@ Tech Enthusiast 👨🏽‍💻
 - 🔭 I’m currently working on improving my Mobile Application Development and Backend Skills
 - ⚡ Fun fact: I play a lot of Chess. 
 
-## Connect with Me
+## How To Reach Out To Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ianngtt)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrgatituh@gmail.com)
@@ -25,5 +25,3 @@ Tech Enthusiast 👨🏽‍💻
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MrGatitu&show_icons=true&theme=radical)
 
-<!-- Optional: Top languages you use -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGatitu&layout=compact&theme=radical)
