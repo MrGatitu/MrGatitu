@@ -9,12 +9,4 @@
 
 ## About Me
 
-A Typical Tech Enthusiast 👨🏽‍💻
-
-- 🔭 I’m currently working on improving my Mobile Application Development and Backend Skills
-- ⚡ Fun fact: I play a lot of Chess. 
-
-## How To Reach Out To Me
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ianngtt)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrgatituh@gmail.com)
+A Typical Tech Enthusiast 
