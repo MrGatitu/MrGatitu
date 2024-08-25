@@ -15,3 +15,14 @@
 ## About Me
 
 More Into Backend Stuff and Low Level Programming
+
+## Stats
+<div align="center">
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?user=MrGatitu&show_icons=true&theme=radical)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=MrGatitu&theme=radical)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGatitu&layout=compact&theme=radical)
+  
+</div>
